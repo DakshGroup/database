@@ -1,0 +1,12 @@
+Programmer name :  Vidushi Dewan
+Today's date :  30-03-2019
+Syntax:
+<SCRIPT LANGUAGE="Javascript";
+//JavaScript code snippet written here
+<INPUT Type="TEXT" onChange="< onBlur>">
+<INPUT Type="TEXT" onChange="< onFocus>">
+Syntax:
+if(Condition){
+//JavaScript code
+}
+</SCRIPT>
